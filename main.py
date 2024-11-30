@@ -3,7 +3,7 @@ import requests
 import pandas as pd
 
 # Backend API URL
-API_URL = "https://your-backend.vercel.app"  # Replace with your backend URL
+API_URL = "https://sql-dbbot-rajagopalhertzians-projects.vercel.app/"  # Replace with your backend URL
 
 st.title("Natural Language to SQL Chatbot")
 st.write("Upload a dataset and ask questions in natural language.")
